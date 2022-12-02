@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Akanksha Mahajan</h1>
-<h3 align="center">A passionate Data Science Enthusiast</h3>
+<h3 align="left">A passionate Data Science Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz49pzG7CLExHaaewN5QE9HJHvxJGAlW2ZMw&usqp=CAU">
 
