@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akanksha Mahajan</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="left" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🔭 I’m currently working on as an Intern at <a href="https://aivariant.com/" target="blank"><img align="center" src="https://www.aivariant.com/wp-content/uploads/2021/01/ai_logo5_2-1.png" alt="MoinDalvs" height="20" width="60" /></a>
 
@@ -21,6 +21,10 @@
 <a href="https://linkedin.com/in/akanksha-mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanksha-mahajan" height="30" width="40" /></a>
 <a href="https://kaggle.com/akanksha1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akanksha1104" height="30" width="40" /></a>
 </p> 
+
+
+
+<img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif">
 
 ## `Tools:`
 <img align="left" src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="pp" width="50" height="50" /> </a>
@@ -52,8 +56,6 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha1104&show_icons=true&locale=en" alt="akanksha1104" /></p>
 
 
-
-<img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif">
 
 
 <div style="align:center;
