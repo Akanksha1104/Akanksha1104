@@ -20,16 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/akanksha-mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanksha-mahajan" height="30" width="40" /></a>
 <a href="https://kaggle.com/akanksha1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akanksha1104" height="30" width="40" /></a>
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksha1104&show_icons=true&locale=en&layout=compact" alt="akanksha1104" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha1104&show_icons=true&locale=en" alt="akanksha1104" /></p>
-
-
-
-<img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
+</p> 
 
 ## `Tools:`
 <img align="left" src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="pp" width="50" height="50" /> </a>
@@ -54,6 +45,15 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksha1104&show_icons=true&locale=en&layout=compact" alt="akanksha1104" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha1104&show_icons=true&locale=en" alt="akanksha1104" /></p>
+
+
+
+<img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif">
 
 
 <div style="align:center;
