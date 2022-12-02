@@ -51,9 +51,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksha1104&show_icons=true&locale=en&layout=compact" alt="akanksha1104" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha1104&show_icons=true&locale=en" alt="akanksha1104" /></p>
 
 
 
