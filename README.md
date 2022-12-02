@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Akanksha Mahajan</h1>
-<h3 align="left">A passionate Data Science Enthusiast</h3>
+<h3 align="center">A passionate Data Science Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz49pzG7CLExHaaewN5QE9HJHvxJGAlW2ZMw&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🔭 I’m currently working on as an Intern at <a href="https://aivariant.com/" target="blank"><img align="center" src="https://www.aivariant.com/wp-content/uploads/2021/01/ai_logo5_2-1.png" alt="MoinDalvs" height="20" width="60" /></a>
 
