@@ -16,11 +16,11 @@
 
 - 📫 How to reach me **mahajanakanksha123@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+#<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akanksha-mahajan" target="blank"><img align="center" src="https://www.linkedin.com/in/akanksha-mahajan-950743217/" alt="akanksha-mahajan" height="30" width="40" /></a>
 <a href="https://kaggle.com/akanksha1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akanksha1104" height="30" width="40" /></a>
-</p> 
+</p># 
 
 
 
