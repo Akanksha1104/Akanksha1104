@@ -16,12 +16,6 @@
 
 - 📫 How to reach me **mahajanakanksha123@gmail.com**
 
-#<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akanksha-mahajan" target="blank"><img align="center" src="https://www.linkedin.com/in/akanksha-mahajan-950743217/" alt="akanksha-mahajan" height="30" width="40" /></a>
-<a href="https://kaggle.com/akanksha1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akanksha1104" height="30" width="40" /></a>
-</p># 
-
 
 
 <img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif">
