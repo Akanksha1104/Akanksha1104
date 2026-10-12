@@ -5,8 +5,6 @@
   <img alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 </p>
 
-![](https://komarev.com/ghpvc/?username=slmsshk&color=brightgreen)
-
 - 💼 I'm **open to opportunities** as a **Java Full Stack Developer**
 - 🛠️ I build web applications with **Java, Spring Boot, Angular and MySQL**
 - 🌱 I'm currently strengthening my skills in **Spring Boot, REST APIs, Angular and Spring Data JPA**
